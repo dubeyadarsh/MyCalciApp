@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NumberButtonStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+
+        <item name = "android:textSize">35sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:radius">200dp</item>
+        <item name="android:layout_margin">1dp</item>
+    </style>
+   <style name="clearButton">
+       <item name = "android:textSize">40sp</item>
+       <item name="android:gravity">center</item>
+       <item name="android:layout_margin">3dp</item>
+   </style>
+    <style name="heightButton">
+        <item name="android:layout_width">50dp</item>
+
+        <item name="android:layout_weight">1</item>
+
+        <item name = "android:textSize">38sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:radius">200dp</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:height">100dp</item>
+    </style>
+</resources>
